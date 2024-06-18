@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\physical formulas\physical formulas\bin\Debug\physical formulas.exe.config
+C:\Users\pc\source\repos\physical formulas\physical formulas\bin\Debug\physical formulas.exe
+C:\Users\pc\source\repos\physical formulas\physical formulas\bin\Debug\physical formulas.pdb
+C:\Users\pc\source\repos\physical formulas\physical formulas\obj\Debug\physical formulas.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\physical formulas\physical formulas\obj\Debug\physical_formulas.Form1.resources
+C:\Users\pc\source\repos\physical formulas\physical formulas\obj\Debug\physical_formulas.Properties.Resources.resources
+C:\Users\pc\source\repos\physical formulas\physical formulas\obj\Debug\physical formulas.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\physical formulas\physical formulas\obj\Debug\physical formulas.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\physical formulas\physical formulas\obj\Debug\physical formulas.exe
+C:\Users\pc\source\repos\physical formulas\physical formulas\obj\Debug\physical formulas.pdb
